@@ -1,5 +1,7 @@
 # Git Hound
 
+Original, unmaintained Python3 Proof of Concept
+
 A pattern-matching, batch-catching secret snatcher.
 **This project is intended to be used for educational purposes.**
 
